@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
