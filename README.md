@@ -6,6 +6,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/captivatingfr/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/captivatingfr/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
@@ -14,16 +15,19 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/captivatingfr/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
@@ -43,4 +47,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/captivatingfr/Leetcode/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
