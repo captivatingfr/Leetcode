@@ -22,6 +22,7 @@
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/captivatingfr/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/captivatingfr/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/captivatingfr/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
@@ -32,12 +33,14 @@
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/captivatingfr/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 ## Counting Sort
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
+| [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
