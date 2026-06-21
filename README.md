@@ -12,6 +12,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/captivatingfr/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/captivatingfr/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/captivatingfr/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/captivatingfr/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 ## Simulation
 |  |
