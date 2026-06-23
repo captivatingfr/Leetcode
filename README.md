@@ -99,8 +99,13 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/captivatingfr/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/captivatingfr/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/captivatingfr/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/captivatingfr/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
