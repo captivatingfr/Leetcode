@@ -83,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/captivatingfr/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
