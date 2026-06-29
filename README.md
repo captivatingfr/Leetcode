@@ -117,6 +117,7 @@
 ## String
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/captivatingfr/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
