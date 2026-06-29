@@ -69,6 +69,7 @@
 | [0031-next-permutation](https://github.com/captivatingfr/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/captivatingfr/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/captivatingfr/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
