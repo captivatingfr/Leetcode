@@ -94,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/captivatingfr/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/captivatingfr/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
@@ -153,6 +154,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/captivatingfr/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -161,6 +163,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Matrix
 |  |
