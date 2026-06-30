@@ -1,16 +1,23 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-        int count = 0;
-        for(int i = 0; i < nums.length; i++){
-            int curr = 0;
-            for(int j = i ; j < nums.length; j++){
-                curr += nums[j];
-               
-                if(curr == k){
-                    count++;
-                }
-            }
+        int res = 0;
+        int currSum = 0;
+
+        HashMap<Integer, Integer> prefixSums = new HashMap<>();
+        prefixSums.put(0, 1);
+
+        for (int i = 0; i < nums.length; i++) {
+
+            currSum += nums[i];
+
+            int diff = currSum - k;
+
+            res += prefixSums.getOrDefault(diff, 0);
+
+            prefixSums.put(currSum,
+                    prefixSums.getOrDefault(currSum, 0) + 1);
         }
-        return count;
+
+        return res;
     }
 }
