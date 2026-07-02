@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/captivatingfr/Leetcode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/captivatingfr/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/captivatingfr/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/captivatingfr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@
 | [0148-sort-list](https://github.com/captivatingfr/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/captivatingfr/Leetcode/tree/master/0229-majority-element-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/captivatingfr/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -56,6 +58,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/captivatingfr/Leetcode/tree/master/0229-majority-element-ii) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -70,6 +73,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/captivatingfr/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/captivatingfr/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/captivatingfr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
