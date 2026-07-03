@@ -200,9 +200,22 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/captivatingfr/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/captivatingfr/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/captivatingfr/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/captivatingfr/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/captivatingfr/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/captivatingfr/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
