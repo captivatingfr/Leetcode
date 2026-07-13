@@ -6,8 +6,6 @@ class Solution {
             l = Math.max(l, n);
             r += n;
         }
-
-      
         int result = r;
         while(l <= r){
             int mid = l + (r-l) /2;
@@ -21,18 +19,16 @@ class Solution {
         }
         return result;
     }
-        public boolean canSplit(int[] nums, int largest, int m){
-            int subArray = 1;
-            int currSum = 0;
-            for(int n : nums){
-                currSum += n;
-                if(currSum > largest){
-                    subArray ++;
-                    currSum = n;
-                }
+    public boolean canSplit(int[] nums, int largest, int m){
+        int subArray = 1;
+        int currSum = 0;
+        for(int n : nums){
+            currSum += n;
+            if(currSum > largest){
+                subArray ++;
+                currSum = n;
             }
-            return subArray <= m;
-
         }
-    
+        return subArray <= m;
+    }
 }
