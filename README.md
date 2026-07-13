@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/captivatingfr/Leetcode/tree/master/0229-majority-element-ii) |
+| [0410-split-array-largest-sum](https://github.com/captivatingfr/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/captivatingfr/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/captivatingfr/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/captivatingfr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +118,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/captivatingfr/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/captivatingfr/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/captivatingfr/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0410-split-array-largest-sum](https://github.com/captivatingfr/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/captivatingfr/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/captivatingfr/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/captivatingfr/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -151,6 +153,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/captivatingfr/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -159,6 +162,7 @@
 | [0053-maximum-subarray](https://github.com/captivatingfr/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/captivatingfr/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/captivatingfr/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/captivatingfr/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/captivatingfr/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
 |  |
@@ -169,6 +173,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/captivatingfr/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/captivatingfr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/captivatingfr/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/captivatingfr/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
