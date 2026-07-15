@@ -139,6 +139,7 @@
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/captivatingfr/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -247,4 +248,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/captivatingfr/Leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/captivatingfr/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
