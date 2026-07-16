@@ -54,6 +54,7 @@
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/captivatingfr/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/captivatingfr/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/captivatingfr/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,12 +147,14 @@
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/captivatingfr/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/captivatingfr/Leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/captivatingfr/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/captivatingfr/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,4 +264,5 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/captivatingfr/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
