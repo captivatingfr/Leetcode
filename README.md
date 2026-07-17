@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/captivatingfr/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/captivatingfr/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/captivatingfr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/captivatingfr/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/captivatingfr/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/captivatingfr/Leetcode/tree/master/0031-next-permutation) |
@@ -182,6 +183,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/captivatingfr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/captivatingfr/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/captivatingfr/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
