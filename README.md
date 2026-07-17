@@ -182,6 +182,7 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
@@ -265,4 +266,8 @@
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/captivatingfr/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
