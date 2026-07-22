@@ -19,9 +19,6 @@ class Solution {
                 map.remove(ch);
             }
         }
-        if(map.isEmpty()){
-            return true;
-        }
-        return false;
+        return map.isEmpty();
     }
 }
