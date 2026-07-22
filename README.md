@@ -68,6 +68,7 @@
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/captivatingfr/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/captivatingfr/Leetcode/tree/master/0242-valid-anagram) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/captivatingfr/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -95,6 +96,7 @@
 | [0205-isomorphic-strings](https://github.com/captivatingfr/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/captivatingfr/Leetcode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/captivatingfr/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/captivatingfr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -189,6 +191,7 @@
 | [0014-longest-common-prefix](https://github.com/captivatingfr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/captivatingfr/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/captivatingfr/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/captivatingfr/Leetcode/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
