@@ -37,6 +37,7 @@
 | [0485-max-consecutive-ones](https://github.com/captivatingfr/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/captivatingfr/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/captivatingfr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/captivatingfr/Leetcode/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/captivatingfr/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0875-koko-eating-bananas](https://github.com/captivatingfr/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -69,6 +70,7 @@
 | [0217-contains-duplicate](https://github.com/captivatingfr/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/captivatingfr/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/captivatingfr/Leetcode/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/captivatingfr/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -151,6 +153,7 @@
 | [0048-rotate-image](https://github.com/captivatingfr/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/captivatingfr/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
