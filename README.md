@@ -44,6 +44,7 @@
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/captivatingfr/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/captivatingfr/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/captivatingfr/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/captivatingfr/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -74,6 +75,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/captivatingfr/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 | [3536-maximum-product-of-two-digits](https://github.com/captivatingfr/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -260,6 +262,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/captivatingfr/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
