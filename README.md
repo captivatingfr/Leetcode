@@ -212,6 +212,7 @@
 | [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/captivatingfr/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/captivatingfr/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
