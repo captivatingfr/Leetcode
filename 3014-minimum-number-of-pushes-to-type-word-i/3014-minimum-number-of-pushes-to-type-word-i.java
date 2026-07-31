@@ -1,24 +1,9 @@
 class Solution {
     public int minimumPushes(String word) {
-        int[] freq = new int[26];
-    
-        for (char ch : word.toCharArray()) {
-            freq[ch - 'a']++;
-        }
-        Arrays.sort(freq);
-        int pushes = 1;
-        int used = 0;
-        int ans = 0;
-        for(int i = 25; i >= 0; i--){
-            if(freq[i] == 0){
-                break;
-            }
-            ans += freq[i] * pushes;
-            used++;
-            if (used == 8) {
-                pushes++;
-                used = 0;
-            }
+    int len=word.length();
+        int ans=0;
+        for(int i=0;i<len;i++){
+            ans += (i/8)+1;
         }
         return ans;
     }
