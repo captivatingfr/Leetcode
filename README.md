@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/captivatingfr/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/captivatingfr/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/captivatingfr/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/captivatingfr/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/captivatingfr/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/captivatingfr/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/captivatingfr/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/captivatingfr/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
@@ -204,6 +206,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/captivatingfr/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/captivatingfr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/captivatingfr/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/captivatingfr/Leetcode/tree/master/0205-isomorphic-strings) |
