@@ -93,6 +93,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/captivatingfr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1051-height-checker](https://github.com/captivatingfr/Leetcode/tree/master/1051-height-checker) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/captivatingfr/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/captivatingfr/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/captivatingfr/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -114,6 +115,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/captivatingfr/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/captivatingfr/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/captivatingfr/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/captivatingfr/Leetcode/tree/master/3731-find-missing-elements) |
@@ -226,6 +228,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/captivatingfr/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/captivatingfr/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/captivatingfr/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
