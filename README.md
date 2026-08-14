@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/captivatingfr/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/captivatingfr/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/captivatingfr/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/captivatingfr/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/captivatingfr/Leetcode/tree/master/0169-majority-element) |
@@ -250,6 +251,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/captivatingfr/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/captivatingfr/Leetcode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/captivatingfr/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
@@ -265,6 +267,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/captivatingfr/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/captivatingfr/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/captivatingfr/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/captivatingfr/Leetcode/tree/master/0148-sort-list) |
@@ -294,6 +297,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/captivatingfr/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/captivatingfr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/captivatingfr/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/captivatingfr/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -341,4 +345,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/captivatingfr/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/captivatingfr/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
