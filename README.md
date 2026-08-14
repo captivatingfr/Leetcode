@@ -275,6 +275,7 @@
 | [0206-reverse-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1206-design-skiplist](https://github.com/captivatingfr/Leetcode/tree/master/1206-design-skiplist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -351,4 +352,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/captivatingfr/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1206-design-skiplist](https://github.com/captivatingfr/Leetcode/tree/master/1206-design-skiplist) |
 <!---LeetCode Topics End-->
