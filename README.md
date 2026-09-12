@@ -59,6 +59,7 @@
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/captivatingfr/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/captivatingfr/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/captivatingfr/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/captivatingfr/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/captivatingfr/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/captivatingfr/Leetcode/tree/master/3731-find-missing-elements) |
@@ -87,6 +88,7 @@
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/captivatingfr/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/captivatingfr/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/captivatingfr/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/captivatingfr/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/captivatingfr/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -169,6 +171,7 @@
 | [1539-kth-missing-positive-number](https://github.com/captivatingfr/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/captivatingfr/Leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/captivatingfr/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/captivatingfr/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -225,6 +228,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/captivatingfr/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/captivatingfr/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/captivatingfr/Leetcode/tree/master/0877-stone-game) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/captivatingfr/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/captivatingfr/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 ## String
 |  |
