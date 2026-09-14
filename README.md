@@ -182,6 +182,7 @@
 | [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/captivatingfr/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/captivatingfr/Leetcode/tree/master/0877-stone-game) |
 | [1840-maximum-building-height](https://github.com/captivatingfr/Leetcode/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -374,4 +375,8 @@
 |  |
 | ------- |
 | [1206-design-skiplist](https://github.com/captivatingfr/Leetcode/tree/master/1206-design-skiplist) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/captivatingfr/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
