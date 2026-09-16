@@ -181,6 +181,7 @@
 | [0048-rotate-image](https://github.com/captivatingfr/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/captivatingfr/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/captivatingfr/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/captivatingfr/Leetcode/tree/master/0224-basic-calculator) |
 | [0628-maximum-product-of-three-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/captivatingfr/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/captivatingfr/Leetcode/tree/master/0877-stone-game) |
@@ -239,6 +240,7 @@
 | [0014-longest-common-prefix](https://github.com/captivatingfr/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/captivatingfr/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/captivatingfr/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/captivatingfr/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/captivatingfr/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/captivatingfr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
@@ -296,6 +298,7 @@
 | [0002-add-two-numbers](https://github.com/captivatingfr/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/captivatingfr/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/captivatingfr/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/captivatingfr/Leetcode/tree/master/0224-basic-calculator) |
 | [3483-unique-3-digit-even-numbers](https://github.com/captivatingfr/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -349,6 +352,7 @@
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/captivatingfr/Leetcode/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
