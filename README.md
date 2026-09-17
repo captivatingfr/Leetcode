@@ -193,6 +193,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/captivatingfr/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/captivatingfr/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/captivatingfr/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/captivatingfr/Leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/captivatingfr/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/captivatingfr/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/captivatingfr/Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -303,6 +304,7 @@
 | [0224-basic-calculator](https://github.com/captivatingfr/Leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/captivatingfr/Leetcode/tree/master/0273-integer-to-english-words) |
 | [3483-unique-3-digit-even-numbers](https://github.com/captivatingfr/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/captivatingfr/Leetcode/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Matrix
 |  |
 | ------- |
