@@ -225,6 +225,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/captivatingfr/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/captivatingfr/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/captivatingfr/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/captivatingfr/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/captivatingfr/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -237,6 +238,7 @@
 | [0118-pascals-triangle](https://github.com/captivatingfr/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/captivatingfr/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/captivatingfr/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/captivatingfr/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/captivatingfr/Leetcode/tree/master/0877-stone-game) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/captivatingfr/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/captivatingfr/Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -252,6 +254,7 @@
 | [0242-valid-anagram](https://github.com/captivatingfr/Leetcode/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/captivatingfr/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0451-sort-characters-by-frequency](https://github.com/captivatingfr/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/captivatingfr/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/captivatingfr/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/captivatingfr/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -366,6 +369,7 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/captivatingfr/Leetcode/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/captivatingfr/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -400,4 +404,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/captivatingfr/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/captivatingfr/Leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
