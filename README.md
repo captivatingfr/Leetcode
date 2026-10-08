@@ -410,4 +410,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/captivatingfr/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/captivatingfr/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
